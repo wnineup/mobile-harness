@@ -1,8 +1,4 @@
-# mobile harness 0.9.0-preview
-
 手机本地优先的 AI Agent 客户端 · 首个公开预览版
-
-> 直接整段复制到 GitHub Release 的说明框里；标签用 `v0.9.0-preview`。
 
 ---
 

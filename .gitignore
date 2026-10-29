@@ -1,0 +1,8 @@
+# 本地预留，不提交
+dist/
+*.apk
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
